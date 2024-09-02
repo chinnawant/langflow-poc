@@ -11,6 +11,7 @@ The following libraries are required to run this project:
 ## Installation
 To install the required dependencies, run:
 ```bash
+  source venv/bin/activate
   pip install -r requirements.txt
 ```
 
